@@ -1,3 +1,3 @@
-/**
- * Created by tgray on 1/6/17.
- */
+'use strict';
+
+console.log('you are seeing this shit');
