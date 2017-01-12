@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="08f82420-b873-424a-aa08-4add65d072ae" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2-focus/03-managing-focus/index.html" afterPath="$PROJECT_DIR$/lesson2-focus/03-managing-focus/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2-focus/03-managing-focus/scripts/lib/set-focus.js" afterPath="$PROJECT_DIR$/lesson2-focus/03-managing-focus/scripts/lib/set-focus.js" />
@@ -8,6 +9,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2-focus/03-managing-focus/styles.css" afterPath="$PROJECT_DIR$/lesson2-focus/03-managing-focus/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2-focus/05-radio-group/radiogroup.js" afterPath="$PROJECT_DIR$/lesson2-focus/05-radio-group/radiogroup.js" />
     </list>
+=======
+    <list default="true" id="08f82420-b873-424a-aa08-4add65d072ae" name="Default" comment="" />
+>>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,9 +27,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< Updated upstream
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson2-focus/05-radio-group/index.html">
+=======
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/index.html">
+>>>>>>> Stashed changes
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -34,8 +44,13 @@
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson2-focus/05-radio-group/main.css">
+=======
+      <file leaf-file-name="set-focus.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/scripts/lib/set-focus.js">
+>>>>>>> Stashed changes
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -90,10 +105,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< Updated upstream
     <option name="x" value="-1280" />
     <option name="y" value="299" />
     <option name="width" value="1287" />
     <option name="height" value="738" />
+=======
+    <option name="x" value="434" />
+    <option name="y" value="174" />
+    <option name="width" value="1556" />
+    <option name="height" value="1085" />
+>>>>>>> Stashed changes
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -343,16 +365,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483669498869</updated>
+<<<<<<< Updated upstream
       <workItem from="1483669500182" duration="1803000" />
       <workItem from="1483942342401" duration="7445000" />
+=======
+      <workItem from="1483669500182" duration="1979000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="9248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="299" width="1287" height="738" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="1979000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="434" y="174" width="1556" height="1085" extended-state="0" />
+>>>>>>> Stashed changes
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21801208" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -473,6 +506,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/solution/scripts/lib/page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14492">
@@ -493,20 +527,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-121">
           <caret line="90" column="19" lean-forward="false" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/scripts/lib/page.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="272">
           <caret line="8" column="5" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="8" selection-end-column="5" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/scripts/lib/set-focus.js">
+    <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="8" selection-end-column="5" />
+=======
+        <state relative-caret-position="786">
+          <caret line="259" column="29" lean-forward="false" selection-start-line="259" selection-start-column="29" selection-end-line="259" selection-end-column="29" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="45">
           <caret line="3" column="62" lean-forward="false" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
           <folding />
@@ -517,12 +563,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+=======
+        <state relative-caret-position="85">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/index.html">
+    <entry file="file://$PROJECT_DIR$/lesson2-focus/03-managing-focus/scripts/lib/set-focus.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="424">
           <caret line="202" column="30" lean-forward="false" selection-start-line="202" selection-start-column="30" selection-end-line="202" selection-end-column="30" />
           <folding />
@@ -549,6 +600,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="54" selection-end-column="9" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
