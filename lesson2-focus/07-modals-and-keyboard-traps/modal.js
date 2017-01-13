@@ -59,7 +59,7 @@ function openModal() {
 
             // ESCAPE
             if (e.keyCode === 27) {
-
+                closeModal();
             }
         }
     }
